@@ -1,0 +1,5 @@
+# Messages
+
+jogadores.list.title={0,choice,0#Sem jogadores|1#Um jogador|1<{0,number,integer} jogadores} encontrados
+
+
